@@ -1,6 +1,6 @@
 baseURL = "http://web.serbia70.com/"
 languageCode = "zh-CN"
-title = "塞尔维亚常用网址导航"
+title = "塞尔维亚007"
 theme = "hugo-webstack"
 
 #true:允许大写字母url路径，false:将url路径转换成小写
