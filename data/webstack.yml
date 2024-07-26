@@ -116,32 +116,25 @@
 - taxonomy: 贝尔格莱德买房
   icon: 
   list: 
-    - term: 泽蒙
+    - term: 泽蒙zemun
       links:
-        - title: Producthunt
-          logo: images/logos/producthunt.png
-          url: https://www.producthunt.com/
-          description: 发现新鲜有趣的产品
-        - title: NEXT
-          logo: images/logos/NEXT.png
-          url: https://next.36kr.com/posts
-          description: 不错过任何一个新产品
-        - title: 少数派
-          logo: images/logos/sspai.png
-          url: https://sspai.com/
-          description: 高品质数字消费指南
-        - title: 利器
-          logo: images/logos/liqi.png
-          url: https://liqi.io/
-          description: 创造者和他们的工具
-        - title: Today
-          logo: images/logos/today.png
-          url: http://today.itjuzi.com/
-          description: 为身边的新产品喝彩
-        - title: 小众软件
-          logo: images/logos/appinn.png
-          url: https://faxian.appinn.com/
-          description: 在这里发现更多有趣的应用
+        - title: 泽蒙zemun公寓
+          logo: 
+          url: https://www.4zida.rs/prodaja-stanova/zemun-opstina-beograd
+          description: 4zida泽蒙公寓
+        - title: 泽蒙zemun公寓
+          logo: 
+          url: https://www.halooglasi.com/nekretnine/prodaja-stanova/beograd-zemun
+          description: halooglasi泽蒙公寓
+        - title: 泽蒙zemun房屋
+          logo: 
+          url: https://www.4zida.rs/prodaja-kuca/zemun-opstina-beograd
+          description: 4zida泽蒙房屋
+        - title: 泽蒙zemun房屋
+          logo: 
+          url: https://www.halooglasi.com/nekretnine/prodaja-kuca/beograd-zemun
+          description: halooglasi泽蒙房屋
+      
       
     - term: 界面灵感
       links:
