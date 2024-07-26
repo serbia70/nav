@@ -70,14 +70,51 @@
       description: 电脑类购物网站
     - title: monitor
       logo: 
-      url: https://www.monitor.rs/
+      url: https://www.monitor.rs/     
       description: 电脑类购物网站
+    - title: kupujemprodajem
+      logo: 
+      url: https://www.kupujemprodajem.com
+      description: 二手购物平台
+    - title: kupindo
+      logo: 
+      url: https://www.kupindo.com/
+      description: 二手购物平台
+    - title: limundo
+      logo: 
+      url: https://www.limundo.com/   
+      description: 拍卖平台
       
+      
+      
+ taxonomy: 买房网站
+  icon: fa-regular fa-newspaper
+  links: 
+    - title: 4zida
+      logo: 
+      url: https://www.4zida.rs
+      description: 房源最多
+    - title: halooglasi
+      logo: 
+      url: https://www.halooglasi.com/nekretnine
+      description: 可以显示周边环境
+    - title: cityexpert
+      logo: 
+      url: https://cityexpert.rs/
+      description: 只能查三大城市
+    - title: nekretnine
+      logo: 
+      url: https://www.srbija-nekretnine.org/
+      description: 可以查周边国家
+    - title: kupujemprodajem
+      logo: 
+      url: https://www.kupujemprodajem.com/nekretnine-kupoprodaja/kuce/grupa/26/230/1
+      description: 著名的二手购物网站平台  
       
       
     
 
-- taxonomy: 灵感采集
+- taxonomy: 贝尔格莱德买房租房
   icon: fa-regular fa-lightbulb
   list: 
     - term: 发现产品
