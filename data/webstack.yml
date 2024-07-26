@@ -5,10 +5,10 @@
   links: 
     - title: 谷歌翻译
       logo: 
-      url: https://www.google.com/search?client=firefox-b-d&q=%E8%B0%B7%E6%AD%8C%E7%BF%BB%E8%AF%91
-      description: 各种语言翻译中文。
+      url: https://translate.google.com/?hl=zh-CN&sl=sr&tl=zh-CN&op=translate
+      description: 塞尔维亚语翻译中文。
     - title: 谷歌地图
-      url: https://www.google.com/search?client=firefox-b-d&q=%E8%B0%B7%E6%AD%8C%E7%BF%BB%E8%AF%91
+      url: https://www.google.com/maps/?hl=zh-cn
       description: 非常实用的谷歌地图。
   
     
@@ -32,38 +32,49 @@
       logo: 
       url: https://online.idea.rs
       description: 
-    - title: 人人都是产品经理
-      logo: images/logos/woshipm.png
-      url: http://www.woshipm.com/
-      description: 产品经理、产品爱好者学习交流平台
-    - title: 互联网早读课
-      logo: images/logos/zaodula.png
-      url: https://www.zaodula.com/
-      description: 互联网行业深度阅读与学习平台
-    - title: 产品壹佰 
-      logo: images/logos/chanpin100.png
-      url: http://www.chanpin100.com/
-      description: 为产品经理爱好者提供最优质的产品资讯、原创内容和相关视频课程
-    - title: PMCAFF
-      logo: images/logos/pmcaff.png
-      url: http://www.pmcaff.com/
-      description: 中国第一产品经理人气组织，专注于研究互联网产品
-    - title: 爱运营
-      logo: images/logos/iyunying.png
-      url: http://www.iyunying.org/
-      description: 网站运营人员学习交流，专注于网站产品运营管理、淘宝运营。
-    - title: 鸟哥笔记
-      logo: images/logos/niaogebiji.png
-      url: http://www.niaogebiji.com/
-      description: 移动互联网第一干货平台
-    - title: 古田路9号
-      logo: images/logos/gtn9.png
-      url: http://www.gtn9.com/
-      description: 国内专业品牌创意平台
-    - title: 优阁网
-      logo: images/logos/uigreat.png
-      url: http://www.uigreat.com/
-      description: UI设计师学习交流社区
+    - title: univerexport
+      logo: 
+      url: https://www.univerexport.rs
+      description: univerexport连锁超市
+    - title: lidl超市
+      logo: 
+      url: https://www.lidl.rs/
+      description: 德国品牌连锁超市
+    - title: eponuda
+      logo: 
+      url: https://www.eponuda.com/
+      description: 网上购物比价网
+    - title: gigatron
+      logo: 
+      url: https://gigatron.rs/
+      description: 数码产品实体店网店相结合
+    - title: tehnomanija
+      logo: 
+      url: https://www.tehnomanija.rs/
+      description: 数码产品实体店网店相结合
+    - title: metalac
+      logo: 
+      url: https://www.market.metalac.com/
+      description: 厨房用品数码产品实体店网店相结合
+    - title: bcgroup
+      logo: 
+      url: https://www.bcgroup-online.com/
+      description: 优秀平价的网上购物网站
+    - title: pcpractic
+      logo: 
+      url: https://pcpractic.rs/
+      description: 电脑类购物网站
+    - title: atom
+      logo: 
+      url: https://atom.rs/
+      description: 电脑类购物网站
+    - title: monitor
+      logo: 
+      url: https://www.monitor.rs/
+      description: 电脑类购物网站
+      
+      
+      
     
 
 - taxonomy: 灵感采集
