@@ -10,6 +10,13 @@
     - title: 谷歌地图
       url: https://www.google.com/maps/?hl=zh-cn
       description: 非常实用的谷歌地图。
+      
+    - title: 塞尔维亚之家
+      url: https://serbia70.com
+      description: 塞尔维亚生活移民网站
+    - title: 小红书
+      url: https://www.xiaohongshu.com/user/profile/62c99f18000000000303d6f8
+      description: 塞尔维亚生活移民图文
   
     
 
@@ -119,19 +126,19 @@
      
     - term: 巴拉热窝barajevo
       links:
-        - title: 巴拉热窝barajevo公寓
+        - title: 巴拉热窝公寓
           logo: 
           url: https://www.4zida.rs/prodaja-stanova/barajevo-opstina-beograd
           description: 
-        - title: 巴拉热窝barajevo公寓
+        - title: 巴拉热窝公寓
           logo: 
           url: https://www.halooglasi.com/nekretnine/prodaja-stanova/beograd-barajevo
           description: 
-        - title: 巴拉热窝barajevo房屋
+        - title: 巴拉热窝房屋
           logo: 
           url: https://www.4zida.rs/prodaja-kuca/barajevo-opstina-beograd
           description: 4zida巴拉热窝barajevo房屋
-        - title: 巴拉热窝barajevo房屋
+        - title: 巴拉热窝房屋
           logo: 
           url: https://www.halooglasi.com/nekretnine/prodaja-kuca/beograd-barajevo
           description: 
