@@ -137,7 +137,7 @@
         - title: 巴拉热窝房屋
           logo: 
           url: https://www.4zida.rs/prodaja-kuca/barajevo-opstina-beograd
-          description: 4zida巴拉热窝barajevo房屋
+          description: 
         - title: 巴拉热窝房屋
           logo: 
           url: https://www.halooglasi.com/nekretnine/prodaja-kuca/beograd-barajevo
@@ -145,169 +145,169 @@
       
     - term: 丘卡里察Čukarica
       links:
-        - title: 丘卡里察Čukarica公寓
+        - title: 丘卡里察公寓
           logo: 
           url: https://www.4zida.rs/prodaja-stanova/cukarica-opstina-beograd
           description: 
-        - title: 丘卡里察Čukarica公寓
+        - title: 丘卡里察公寓
           logo: 
           url: https://www.halooglasi.com/nekretnine/prodaja-stanova/beograd-cukarica
           description: 
-        - title: 丘卡里察Čukarica房屋
+        - title: 丘卡里察房屋
           logo: 
           url: https://www.4zida.rs/prodaja-kuca/cukarica-opstina-beograd
           description: 
-        - title: 丘卡里察Čukarica房屋
+        - title: 丘卡里察房屋
           logo: 
           url: https://www.halooglasi.com/nekretnine/prodaja-kuca/beograd-cukarica
           description: 
     - term: 格罗茨卡Grocka
       links:
-        - title: 格罗茨卡Grocka公寓
+        - title: 格罗茨卡公寓
           logo: 
           url: https://www.4zida.rs/prodaja-stanova/grocka-opstina-beograd
           description: 
-        - title: 格罗茨卡Grocka公寓
+        - title: 格罗茨卡公寓
           logo: 
           url: https://www.halooglasi.com/nekretnine/prodaja-stanova/beograd-grocka
           description: 
-        - title: 格罗茨卡Grocka房屋
+        - title: 格罗茨卡房屋
           logo: 
           url: https://www.4zida.rs/prodaja-kuca/grocka-opstina-beograd
           description: 
-        - title: 格罗茨卡Grocka房屋
+        - title: 格罗茨卡房屋
           logo: 
           url: https://www.halooglasi.com/nekretnine/prodaja-kuca/beograd-grocka
           description: 
     - term: 拉扎雷瓦茨Lazarevac
       links:
-        - title: 拉扎雷瓦茨Lazarevac公寓
+        - title: 拉扎雷瓦茨公寓
           logo: 
           url: https://www.4zida.rs/prodaja-stanova/lazarevac-opstina-beograd
           description: 
-        - title: 拉扎雷瓦茨Lazarevac公寓
+        - title: 拉扎雷瓦茨公寓
           logo: 
           url: https://www.halooglasi.com/nekretnine/prodaja-stanova/beograd-lazarevac
           description: 
-        - title: 拉扎雷瓦茨Lazarevac房屋
+        - title: 拉扎雷瓦茨房屋
           logo: 
           url: https://www.4zida.rs/prodaja-kuca/lazarevac-opstina-beograd
           description: 
-        - title: 拉扎雷瓦茨Lazarevac房屋
+        - title: 拉扎雷瓦茨房屋
           logo: 
           url: https://www.halooglasi.com/nekretnine/prodaja-kuca/beograd-lazarevac
           description: 
     - term: 姆拉代诺瓦茨Mladenovac
       links:
-        - title: 姆拉代诺瓦茨Mladenovac公寓
+        - title: 姆拉代诺瓦茨公寓
           logo: 
           url: https://www.4zida.rs/prodaja-stanova/mladenovac-opstina-beograd
           description: 
-        - title: 姆拉代诺瓦茨Mladenovac公寓
+        - title: 姆拉代诺瓦茨公寓
           logo: 
           url: https://www.halooglasi.com/nekretnine/prodaja-stanova/beograd-mladenovac
           description: 
-        - title: 姆拉代诺瓦茨Mladenovac房屋
+        - title: 姆拉代诺瓦茨房屋
           logo: 
           url: https://www.4zida.rs/prodaja-kuca/mladenovac-opstina-beograd
           description: 
-        - title: 姆拉代诺瓦茨Mladenovac房屋
+        - title: 姆拉代诺瓦茨房屋
           logo: 
           url: https://www.halooglasi.com/nekretnine/prodaja-kuca/beograd-mladenovac
           description: 
     - term: 新贝尔格莱德Novi Beograd
       links:
-        - title: 新贝尔格莱德Novi Beograd公寓
+        - title: 新贝尔格莱德公寓
           logo: 
           url: https://www.4zida.rs/prodaja-stanova/novi-beograd-beograd
           description: 
-        - title: 新贝尔格莱德Novi Beograd公寓
+        - title: 新贝尔格莱德公寓
           logo: 
           url: https://www.halooglasi.com/nekretnine/prodaja-stanova/beograd-novi-beograd
           description: 
-        - title: 新贝尔格莱德Novi Beograd房屋
+        - title: 新贝尔格莱德房屋
           logo: 
           url: https://www.4zida.rs/prodaja-kuca/novi-beograd-beograd
           description: 
-        - title: 新贝尔格莱德Novi Beograd房屋
+        - title: 新贝尔格莱德房屋
           logo: 
           url: https://www.halooglasi.com/nekretnine/prodaja-kuca/beograd-novi-beograd
           description: 
     - term: 奥布雷诺瓦茨Obrenovac
       links:
-        - title: 奥布雷诺瓦茨Obrenovac公寓
+        - title: 奥布雷诺瓦茨公寓
           logo: 
           url: https://www.4zida.rs/prodaja-stanova/obrenovac-opstina-beograd
           description: 
-        - title: 奥布雷诺瓦茨Obrenovac公寓
+        - title: 奥布雷诺瓦茨公寓
           logo: 
           url: https://www.halooglasi.com/nekretnine/prodaja-stanova/beograd-obrenovac
           description: 
-        - title: 奥布雷诺瓦茨Obrenovac房屋
+        - title: 奥布雷诺瓦茨房屋
           logo: 
           url: https://www.4zida.rs/prodaja-kuca/obrenovac-opstina-beograd
           description: 
-        - title: 奥布雷诺瓦茨Obrenovac房屋
+        - title: 奥布雷诺瓦茨房屋
           logo: 
           url: https://www.halooglasi.com/nekretnine/prodaja-kuca/beograd-obrenovac
           description: 
     - term: 帕利卢拉Palilula
       links:
-        - title: 帕利卢拉Palilula公寓
+        - title: 帕利卢拉公寓
           logo: 
           url: https://www.4zida.rs/prodaja-stanova/palilula-opstina-beograd
           description: 
-        - title: 帕利卢拉Palilula公寓
+        - title: 帕利卢拉公寓
           logo: 
           url: https://www.halooglasi.com/nekretnine/prodaja-stanova/beograd-palilula
           description: 
-        - title: 帕利卢拉Palilula房屋
+        - title: 帕利卢拉房屋
           logo: 
           url: https://www.4zida.rs/prodaja-kuca/palilula-opstina-beograd
           description: 
-        - title: 帕利卢拉Palilula房屋
+        - title: 帕利卢拉房屋
           logo: 
           url: https://www.halooglasi.com/nekretnine/prodaja-kuca/beograd-palilula
           description: 
     - term: 拉科维察Rakovica
       links:
-        - title: 拉科维察Rakovica公寓
+        - title: 拉科维察公寓
           logo: 
           url: https://www.4zida.rs/prodaja-stanova/rakovica-opstina-beograd
           description: 
-        - title: 拉科维察Rakovica公寓
+        - title: 拉科维察公寓
           logo: 
           url: https://www.halooglasi.com/nekretnine/prodaja-stanova/beograd-rakovica
           description: 
-        - title: 拉科维察Rakovica房屋
+        - title: 拉科维察房屋
           logo: 
           url: https://www.4zida.rs/prodaja-kuca/rakovica-opstina-beograd
           description: 
-        - title: 拉科维察Rakovica房屋
+        - title: 拉科维察房屋
           logo: 
           url: https://www.halooglasi.com/nekretnine/prodaja-kuca/beograd-rakovica
           description: 
     - term: 萨夫斯基韦纳茨Savski Venac
       links:
-        - title: 萨夫斯基韦纳茨Savski Venac公寓
+        - title: 萨夫斯基韦纳茨公寓
           logo: 
           url: https://www.4zida.rs/prodaja-stanova/savski-venac-beograd
           description: 
-        - title: 萨夫斯基韦纳茨Savski Venac公寓
+        - title: 萨夫斯基韦纳茨公寓
           logo: 
           url: https://www.halooglasi.com/nekretnine/prodaja-stanova/beograd-savski-venac
           description: 
-        - title: 萨夫斯基韦纳茨Savski Venac房屋
+        - title: 萨夫斯基韦纳茨房屋
           logo: 
           url: https://www.4zida.rs/prodaja-kuca/savski-venac-beograd
           description: 
-        - title: 萨夫斯基韦纳茨Savski Venac房屋
+        - title: 萨夫斯基韦纳茨房屋
           logo: 
           url: https://www.halooglasi.com/nekretnine/prodaja-kuca/beograd-savski-venac
           description: 
     - term: 索波特Sopot
       links:
-        - title: 索波特Sopot公寓
+        - title: 索波特公寓
           logo: 
           url: https://www.4zida.rs/prodaja-stanova/sopot-opstina-beograd
           description: 
@@ -315,121 +315,121 @@
           logo: 
           url: https://www.halooglasi.com/nekretnine/prodaja-stanova/beograd-sopot
           description: 
-        - title: 索波特Sopot房屋
+        - title: 索波特房屋
           logo: 
           url: https://www.4zida.rs/prodaja-kuca/sopot-opstina-beograd
           description: 
-        - title: 索波特Sopot房屋
+        - title: 索波特房屋
           logo: 
           url: https://www.halooglasi.com/nekretnine/prodaja-kuca/beograd-sopot
           description: 
     - term: 老贝尔格莱德Stari Grad
       links:
-        - title: 老贝尔格莱德Stari Grad公寓
+        - title: 老贝尔格莱德公寓
           logo: 
           url: https://www.4zida.rs/prodaja-stanova/stari-grad-opstina-beograd
           description: 
-        - title: 老贝尔格莱德Stari Grad公寓
+        - title: 老贝尔格莱德公寓
           logo: 
           url: https://www.halooglasi.com/nekretnine/prodaja-stanova/novi-sad-stari-grad
           description: 
-        - title: 老贝尔格莱德Stari Grad房屋
+        - title: 老贝尔格莱德房屋
           logo: 
           url: https://www.4zida.rs/prodaja-kuca/stari-grad-opstina-beograd
           description: 
-        - title: 老贝尔格莱德Stari Grad房屋
+        - title: 老贝尔格莱德房屋
           logo: 
           url: https://www.halooglasi.com/nekretnine/prodaja-kuca/novi-sad-stari-grad
           description: 
     - term: 苏尔钦Surčin
       links:
-        - title: 苏尔钦Surčin公寓
+        - title: 苏尔钦公寓
           logo: 
           url: https://www.4zida.rs/prodaja-stanova/surcin-opstina-beograd
           description: 
-        - title: 苏尔钦Surčin公寓
+        - title: 苏尔钦公寓
           logo: 
           url: https://www.halooglasi.com/nekretnine/prodaja-stanova/beograd-surcin
           description: 
-        - title: 苏尔钦Surčin房屋
+        - title: 苏尔钦房屋
           logo: 
           url: https://www.4zida.rs/prodaja-kuca/surcin-opstina-beograd
           description: 
-        - title: 苏尔钦Surčin房屋
+        - title: 苏尔钦房屋
           logo: 
           url: https://www.halooglasi.com/nekretnine/prodaja-kuca/beograd-surcin
           description: 
     - term: 沃日多瓦茨Voždovac
       links:
-        - title: 沃日多瓦茨Voždovac公寓
+        - title: 沃日多瓦茨公寓
           logo: 
           url: https://www.4zida.rs/prodaja-stanova/vozdovac-opstina-beograd
           description: 
-        - title: 沃日多瓦茨Voždovac公寓
+        - title: 沃日多瓦茨公寓
           logo: 
           url: https://www.halooglasi.com/nekretnine/prodaja-stanova/beograd-vozdovac
           description: 
-        - title: 沃日多瓦茨Voždovac房屋
+        - title: 沃日多瓦茨房屋
           logo: 
           url: https://www.4zida.rs/prodaja-kuca/vozdovac-opstina-beograd
           description: 
-        - title: 沃日多瓦茨Voždovac房屋
+        - title: 沃日多瓦茨房屋
           logo: 
           url: https://www.halooglasi.com/nekretnine/prodaja-kuca/beograd-vozdovac
           description: 
     - term: 弗拉查尔Vračar
       links:
-        - title: 弗拉查尔Vračar公寓
+        - title: 弗拉查尔公寓
           logo: 
           url: https://www.4zida.rs/prodaja-stanova/vracar-beograd
           description: 
-        - title: 弗拉查尔Vračar公寓
+        - title: 弗拉查尔公寓
           logo: 
           url: https://www.halooglasi.com/nekretnine/prodaja-stanova/beograd-vracar
           description: 
-        - title: 弗拉查尔Vračar房屋
+        - title: 弗拉查尔房屋
           logo: 
           url: https://www.4zida.rs/prodaja-kuca/vracar-beograd
           description: 
-        - title: 弗拉查尔Vračar房屋
+        - title: 弗拉查尔房屋
           logo: 
           url: https://www.halooglasi.com/nekretnine/prodaja-kuca/beograd-vracar
           description: 
           
     - term: 泽蒙zemun
       links:
-        - title: 泽蒙zemun公寓
+        - title: 泽蒙公寓
           logo: 
           url: https://www.4zida.rs/prodaja-stanova/zemun-opstina-beograd
           description: 
-        - title: 泽蒙zemun公寓
+        - title: 泽蒙公寓
           logo: 
           url: https://www.halooglasi.com/nekretnine/prodaja-stanova/beograd-zemun
           description: 
-        - title: 泽蒙zemun房屋
+        - title: 泽蒙房屋
           logo: 
           url: https://www.4zida.rs/prodaja-kuca/zemun-opstina-beograd
           description: 
-        - title: 泽蒙zemun房屋
+        - title: 泽蒙房屋
           logo: 
           url: https://www.halooglasi.com/nekretnine/prodaja-kuca/beograd-zemun
           description: 
           
     - term: 兹韦兹达拉Zvezdara
       links:
-        - title: 兹韦兹达拉Zvezdara公寓
+        - title: 兹韦兹达拉公寓
           logo: 
           url: https://www.4zida.rs/prodaja-stanova/zvezdara-opstina-beograd
           description: 
-        - title: 兹韦兹达拉Zvezdara公寓
+        - title: 兹韦兹达拉公寓
           logo: 
           url: https://www.halooglasi.com/nekretnine/prodaja-stanova/beograd-zvezdara
           description: 
-        - title: 兹韦兹达拉Zvezdara房屋
+        - title: 兹韦兹达拉房屋
           logo: 
           url: https://www.4zida.rs/prodaja-kuca/zvezdara-opstina-beograd
           description: 
-        - title: 兹韦兹达拉Zvezdara房屋
+        - title: 兹韦兹达拉房屋
           logo: 
           url: https://www.halooglasi.com/nekretnine/prodaja-kuca/beograd-zvezdara
           description: 
