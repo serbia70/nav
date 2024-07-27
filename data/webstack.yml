@@ -120,7 +120,7 @@
       
     
 
-- taxonomy: 贝尔格莱德买房
+- taxonomy: 贝尔格莱德买房1
   icon: 
   list: 
      
@@ -287,6 +287,11 @@
           logo: 
           url: https://www.halooglasi.com/nekretnine/prodaja-kuca/beograd-rakovica
           description: 
+
+- taxonomy: 贝尔格莱德买房2
+  icon: 
+  list:           
+          
     - term: 萨夫斯基韦纳茨Savski Venac
       links:
         - title: 公寓
@@ -433,8 +438,7 @@
           logo: 
           url: https://www.halooglasi.com/nekretnine/prodaja-kuca/beograd-zvezdara
           description: 
-    
-          
+             
           
           
           
