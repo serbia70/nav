@@ -4,28 +4,21 @@ date: 2023-12-20
 draft: false
 ---
 
+### 导航网站的搭建
+
+本网站采用hugo+github+vercel搭建，访问速度一流，除域名之外，其他完全免费，所以大家不用担心网站的可持续性。
+
+### 本站的目的的
+
+为了方便所以在塞尔维亚的同胞们，收集一些有用的信息，希望能给大家带来帮助。
+
+### 移民生活网站
+
+https://serbia70.com
+
+### 小红书
+
+ 塞国007
+https://www.xiaohongshu.com/user/profile/62c99f18000000000303d6f8
 
 
-本网站由 [Hugo](https://github.com/gohugoio/hugo) 驱动，使用 [hugo-webstack](https://github.com/oulh/hugo-webstack) 主题，通过 Github [Pages](https://pages.github.com/) 构建。
-
-[hugo-webstack](https://github.com/oulh/hugo-webstack) 是基于**纯静态**的网址导航网站[webstack.cc](https://github.com/WebStackPage/WebStackPage.github.io) 制作的[Hugo](https://gohugo.io/)主题。
-
-### 本站模板
-
-[https://github.com/oulh/nav](https://github.com/oulh/nav)
-
-### 本站主题
-
-[https://github.com/oulh/hugo-webstack](https://github.com/oulh/hugo-webstack)
-
-### 便捷编辑
-
-1. logo：已内置api，留空即可自动加载
-
-2. description：可以复制网站自带的description内容，电脑浏览器按F12，在"元素"栏按Ctrl+F，搜"desc"，一般第一个就是
-
-3. qrcode：可以填写api链接，如：[https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://netcut.cn/](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://netcut.cn/)，
-
-    不过加载有点慢，使用本地图片更快。
-
-4. FontAwesome图标：[https://origin.fontawesome.com/v6/search](https://origin.fontawesome.com/v6/search/)
